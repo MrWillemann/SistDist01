@@ -1,5 +1,9 @@
 # SistDist01
 
+- Link para o vídeo de explicação/demonstração do projeto:
+
+{https://youtu.be/xmSd_uLxsac}
+
 - Os arquivos .json são os flows no Node-RED. Os tokens de acesso ao AirTable não são salvos nos .json;
 
 - No link para o AirTable a seguir, pode ser visto a tabela usada na gravação, porém apenas para leitura. Caso queira reproduzir o projeto, deverá ser criada uma tabela nova no AirTable;
